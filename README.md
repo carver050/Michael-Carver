@@ -39,6 +39,8 @@ Lab 11: Cybersecurity senior management and information security governance (ISG
 
 Lab 12:  CySA+ Digital Forensics Techniques 
 
-**Job Information**
+.
+
+**Job Information:**
 
 things
