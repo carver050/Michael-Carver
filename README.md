@@ -4,7 +4,11 @@ Hi, my name is
 
 **IST 894 Papers**
 
+Cyber Range Rubric Report
 
+Cyber Range Evaluation Report
+
+Portfolio/Course Reflection
 
 **IST 894 Capstone Experience Labs:**
 
@@ -31,3 +35,6 @@ Lab 10: CySA+ Indicators of Compromise
 Lab 11: Cybersecurity senior management and information security governance (ISG)
 
 Lab 12:  CySA+ Digital Forensics Techniques 
+
+**Job Information**
+things
