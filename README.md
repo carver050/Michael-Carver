@@ -29,15 +29,16 @@ Lab 6: Privilege Escalation XSS and Defense Evasion [MC - IST 894 - Lab 6.docx](
 
 Lab 7: Web Vulnerabilities and Insecure Protocols [MC - IST 894 - Lab 7.docx](https://github.com/user-attachments/files/21366323/MC.-.IST.894.-.Lab.7.docx)
 
-Lab 8: Cryptography and Network Security and Diagnostics
+Lab 8: Cryptography and Network Security and Diagnostics [MC - IST 894 - Lab 8.docx](https://github.com/user-attachments/files/21707774/MC.-.IST.894.-.Lab.8.docx)
 
-Lab 9: Digital Evidence and Legal Issues 
+Lab 9: Digital Evidence and Legal Issues [MC - IST 894 - Lab 9.docx](https://github.com/user-attachments/files/21707776/MC.-.IST.894.-.Lab.9.docx)
 
-Lab 10: CySA+ Indicators of Compromise 
+Lab 10: CySA+ Indicators of Compromise [MC - IST 894 - Lab 10.docx](https://github.com/user-attachments/files/21707777/MC.-.IST.894.-.Lab.10.docx)
 
-Lab 11: Cybersecurity senior management and information security governance (ISG)
+Lab 11: Cybersecurity senior management and information security governance (ISG) [MC - IST 894 - Lab 11.docx](https://github.com/user-attachments/files/21707778/MC.-.IST.894.-.Lab.11.docx)
 
-Lab 12:  CySA+ Digital Forensics Techniques 
+Lab 12:  CySA+ Digital Forensics Techniques [MC - IST 894 - Lab 12.docx](https://github.com/user-attachments/files/21707779/MC.-.IST.894.-.Lab.12.docx)
+
 
 .
 
