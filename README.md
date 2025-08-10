@@ -4,12 +4,11 @@ Hi, my name is
 
 **IST 894 Papers**
 
-Cyber Range Rubric Report
+Cyber Range Rubric Report [MC - IST 894 - Creation of Cyber Range Evaluation Rubric.docx](https://github.com/user-attachments/files/21707780/MC.-.IST.894.-.Creation.of.Cyber.Range.Evaluation.Rubric.docx)
 
-Cyber Range Evaluation Report
+Cyber Range Evaluation Report [MC - IST 894 - Cyber Range Evaluation Report.docx](https://github.com/user-attachments/files/21707781/MC.-.IST.894.-.Cyber.Range.Evaluation.Report.docx)
 
-Portfolio/Course Reflection
-
+Portfolio/Course Reflection 
 
 .
 
