@@ -10,10 +10,10 @@ Cyber Range Evaluation Report
 
 Portfolio/Course Reflection
 
-**IST 894 Capstone Experience Labs:**
 
 .
 
+**IST 894 Capstone Experience Labs:**
 
 Lab 1: Vulnerability Scans and Network Security and Diagnostics [MC - IST 894 - Lab 1.docx](https://github.com/user-attachments/files/21366665/MC.-.IST.894.-.Lab.1.docx)
 
