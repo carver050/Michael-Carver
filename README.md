@@ -8,7 +8,8 @@ Cyber Range Rubric Report [MC - IST 894 - Creation of Cyber Range Evaluation Rub
 
 Cyber Range Evaluation Report [MC - IST 894 - Cyber Range Evaluation Report.docx](https://github.com/user-attachments/files/21707781/MC.-.IST.894.-.Cyber.Range.Evaluation.Report.docx)
 
-Portfolio/Course Reflection 
+Portfolio/Course Reflection [MC - IST 894 - Portfolio Reflection.docx](https://github.com/user-attachments/files/21708688/MC.-.IST.894.-.Portfolio.Reflection.docx)
+
 
 .
 
