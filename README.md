@@ -45,3 +45,4 @@ Lab 12:  CySA+ Digital Forensics Techniques [MC - IST 894 - Lab 12.docx](https:/
 **Job Information:**
 
 Every job has it's own challenges and needs. Below there is a document with several job listing URLs. In this same document there will be a list of skills needed or important to these positions. This will help determine which skills line up with my wants and experience.
+[InfoSecJobs.docx](https://github.com/user-attachments/files/21725445/InfoSecJobs.docx)
