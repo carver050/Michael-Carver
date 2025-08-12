@@ -44,5 +44,5 @@ Lab 12:  CySA+ Digital Forensics Techniques [MC - IST 894 - Lab 12.docx](https:/
 
 **Job Information:**
 
-Every job has it's own challenges and needs. Below there is a document with several job listing URLs. In this same document there will be a list of skills needed or important to these positions. This will help determine which skills line up with my wants and experience.
-[InfoSecJobs.docx](https://github.com/user-attachments/files/21725445/InfoSecJobs.docx)
+Every job has it's own challenges and needs. Below there is a document with several job listing URLs. In this same document there will be a list of skills needed or important to these positions. This will help determine which skills line up with my wants and experience. The posiitons are Information Security Governence, Risk, and Compliance with PSECU, Junior Security Engineer Guggenhiem Investments, and IT Specialist (SYSADM/INFOSEC) with the Defense Logistics Agency.
+[InfoSecJobs.docx](https://github.com/user-attachments/files/21725482/InfoSecJobs.docx)
